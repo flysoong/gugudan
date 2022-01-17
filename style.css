@@ -1,0 +1,20 @@
+:root {
+  --text-color: #e6e4e4;
+  --background-color: #263343;
+}
+body {
+  margin: 0;
+  font-family: "Source Sans Pro";
+}
+.input {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  width: 400px;
+  padding: 8px 12px;
+}
+.Num {
+  align-content: center;
+}
